@@ -1,35 +1,34 @@
-<h1 align="center">Hi, I'm Antonio</h1>
+<h1 align="center">Antonio</h1>
 
 <p align="center">
-  🎬 Video Editor (VEGAS Pro) • 🧊 3D Artist • 💻 Computer Science Student
+  VIDEO EDITOR • 3D ARTIST • COMPUTER SCIENCE STUDENT
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=1EC8FF&center=true&vCenter=true&width=560&lines=Video+Editor+(VEGAS+Pro);3D+Artist+(Blender);Computer+Science+Student" />
-</p>
-
----
-
-## ⚡ About Me
-
-🎬 Video editing using **VEGAS Pro**  
-🧊 Creating **3D models and assets**  
-💻 Studying **Computer Science**
-
-Always improving, learning, and building better projects step by step.
-
----
-
-## 🛠️ Tools & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VEGAS%20Pro-Video%20Editing-purple?style=for-the-badge&logo=magix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-3D%20Artist-orange?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=20&duration=2600&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=620&lines=VEGAS+PRO+VIDEO+EDITOR;3D+ARTIST+(BLENDER);COMPUTER+SCIENCE+STUDENT" />
 </p>
 
 ---
 
+## ░ PROFILE
+
+■ VIDEO EDITING — VEGAS PRO  
+■ 3D CREATION — BLENDER  
+■ COMPUTER SCIENCE — STUDENT  
+
+DIGITAL PRODUCTION • VISUAL SYSTEMS • CODE STUDY
+
+---
+
+## ░ TOOLS
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1EC8FF&height=120&section=footer" />
+  <img src="https://img.shields.io/badge/VEGAS%20PRO-VIDEO%20EDITOR-black?style=for-the-badge&logo=magix&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLENDER-3D%20ARTIST-black?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" />
 </p>
